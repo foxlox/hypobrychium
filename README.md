@@ -13,7 +13,7 @@ When used with third-party PIDs, there will be no screen input/output in the CMD
 Source will be published soon, I'm making it watchable ;-)
 It was written in Delphi (Lazarous)
 
-Special thanks to Ewan who developed some really professional Units.
+Special thanks to Ewan who developed some high professional Units.
 
 have fun
 
