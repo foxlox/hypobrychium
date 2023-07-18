@@ -15,6 +15,8 @@ Special thanks to Ewan who developed some high professional Units.
 
 have fun
 
+Required: Local Administrator role
+
 # Examples in pics
 ![image](https://github.com/foxlox/hypobrychium/assets/28823598/cf0785e0-205b-4c34-8036-0547c7761d15)
 
