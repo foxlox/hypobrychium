@@ -5,7 +5,7 @@ uses windows,classes,sysutils,uadvapi32;
 
 var
   parampos:dword;
-  pid,params,input:string;
+  pid,params:string;
 
 
 procedure verbose(s:string;yn:integer);
