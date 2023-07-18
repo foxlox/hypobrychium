@@ -1,6 +1,4 @@
-# hypobrychium
-
-AV/EDR completely ignore it.
+# hypobrychium AV/EDR completely ignore me.
 
 Duplicate not owned Token from Running Process without detections
 
