@@ -1,5 +1,8 @@
 # hypobrychium
-Duplicate not owned Token from Running Process
+
+AV/EDR completely ignore it.
+
+Duplicate not owned Token from Running Process without detections
 
 Duplicates the token of a running process and executes a command.
 
