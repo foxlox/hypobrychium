@@ -87,7 +87,7 @@ begin
      begin
       pid:=copy(cmdline,parampos,strlen(cmdline));
       pid:=stringreplace(pid,'-runpid:','',[rfReplaceAll, rfIgnoreCase]);
-      pid:=copy(pid,0,pos(' ',pid)-1);
+      if pos(' ',pid)>0 then pid:=copy(pid,0,pos(' ',pid)-1);
       if pid='' then
          begin
           verbose('Check your syntax, PID is empty',1);
